@@ -1,5 +1,6 @@
-# play-ground
-demo
+# Play-ground.
+----
+# demo
 # we're learning GitHub.
 ----
-#DevOps is way of life.
+# DevOps is way of life.
