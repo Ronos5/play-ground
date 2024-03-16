@@ -7,3 +7,4 @@
 # DevOps is way of life.
 # The moment you give up is the moment you let someone else win. Kobe Bryant
 # Ade's birthday party after Spring Break!
+# etech is the best environ to learn DevoPs
