@@ -1,7 +1,7 @@
 # Play-ground.
 ----
 # Demo
-#Etech "we train you from scratch to Pro"
+# Etech "we train you from scratch to Pro"
 # We're learning GitHub.
 ----
 # DevOps is way of life.
